@@ -1,0 +1,32 @@
+version: 1
+points:
+  - id: SP001
+    name: 现场风险控制
+    description: 是否先行识别并控制燃爆、次生伤害等风险。
+    weight: 20
+    analysis_level: 1
+    keywords: ["控现场", "风险", "警戒", "次生"]
+  - id: SP002
+    name: 人员救治优先级
+    description: 是否体现先救命后取证、伤者分级转运。
+    weight: 20
+    analysis_level: 1
+    keywords: ["救治", "先救", "分级", "转运"]
+  - id: SP003
+    name: 证据固定与链路完整
+    description: 是否描述关键证据提取、封存、记录。
+    weight: 20
+    analysis_level: 2
+    keywords: ["证据", "固定", "封存", "记录"]
+  - id: SP004
+    name: 法规程序合规
+    description: 是否体现依法处置、告知与程序正当。
+    weight: 20
+    analysis_level: 2
+    keywords: ["依法", "告知", "程序", "合规"]
+  - id: SP005
+    name: 指挥协同与复盘
+    description: 是否及时上报、协同联动并给出复盘建议。
+    weight: 20
+    analysis_level: 3
+    keywords: ["上报", "指挥", "联动", "复盘"]

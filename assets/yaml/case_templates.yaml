@@ -1,0 +1,17 @@
+version: 1
+templates:
+  - id: CASE001
+    title: 化工仓储爆燃先期处置
+    background: 接警称工业园化工仓储区发生爆燃，现场有浓烟、多人受伤，群众聚集围观并拍摄。
+    difficulty: 5
+    tags: ["爆燃", "群体事件", "危化品"]
+  - id: CASE002
+    title: 高速连环追尾二次事故风险
+    background: 夜间雨天高速发生五车追尾，后方来车制动距离不足，现场照明差、伤者情况不明。
+    difficulty: 4
+    tags: ["交通", "二次事故", "恶劣天气"]
+  - id: CASE003
+    title: 校园周边持械纠纷
+    background: 放学时段校园周边发生持械斗殴，嫌疑人情绪激动，围观群众多且存在未成年人。
+    difficulty: 4
+    tags: ["治安", "未成年人", "高舆情"]
